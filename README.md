@@ -8,5 +8,5 @@ Then you can watch this [series](https://www.youtube.com/playlist?list=PLBB24CFB
 
 This repo is bases on those videos:
 
-* [Starting Threads](https://github.com/IAbeteEtMechante/Parallel_and_concurrent_programming_in_Java/tree/master/startingthreads)
-* [CountDownLatch](https://github.com/IAbeteEtMechante/Parallel_and_concurrent_programming_in_Java/tree/master/countdownlatch)
+* [Starting Threads](https://github.com/IAbeteEtMechante/Parallel_and_concurrent_programming_in_Java/tree/master/src/main/java/startingthreads)
+* [CountDownLatch](https://github.com/IAbeteEtMechante/Parallel_and_concurrent_programming_in_Java/tree/master/src/main/java/countdownlatch)
